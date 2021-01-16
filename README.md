@@ -24,6 +24,7 @@ auth : username and password of a granted account to jira server
 # Distribution
 
 it is distributed as nuget package
+
 reference to download the package is : https://www.nuget.org/packages/Get-All-Jira-Groups/
 
 # Sample :
