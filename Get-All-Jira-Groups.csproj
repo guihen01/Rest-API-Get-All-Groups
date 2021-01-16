@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Get_All_Jira_Groups</RootNamespace>
+    <Authors>Henri Guillot</Authors>
+    <Description>Program in C# . the exec prog, Get all Jira groups , it uses the REST API  end point : /rest/api/2/groups/picker.  extract all groups and parse them in a json file (Json formated) &amp; in a text formated file.  Rest API from Jira Server platform REST API reference)
+https://docs.atlassian.com/software/jira/docs/api/REST/8.13.2</Description>
+    <Copyright>Henri Guillot</Copyright>
+    <RepositoryUrl>https://github.com/guihen01/Rest-API-Get-All-Groups</RepositoryUrl>
+    <RepositoryType>nuget</RepositoryType>
+    <PackageTags>JIRA REST API Json</PackageTags>
+    <PackageProjectUrl>https://www.nuget.org/packages/Get-All-Jira-Groups/</PackageProjectUrl>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+</Project>
