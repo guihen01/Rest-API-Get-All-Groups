@@ -28,7 +28,7 @@ name of the file created : List-groups.json
 
 exemple (text formated sample) : at : https://github.com/guihen01/Rest-API-Get-All-Groups/blob/main/Screenshots/List-groups.txt
 
-2) The program create a text formated file , (json to string) it includes all the Jira groups.  
+2) The program create a text formated file , (json to string) it includes all the Jira groups                    .  
 name of the file created : List-groups.txt
 
 exemple (json formated) : at https://github.com/guihen01/Rest-API-Get-All-Groups/blob/main/Screenshots/List-groups.json
