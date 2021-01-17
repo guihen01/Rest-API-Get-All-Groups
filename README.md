@@ -53,11 +53,11 @@ Get-All-Jira-Groups.zip
 
 The zip file is a compressed folder that include the published application 
 
-publishiong profile :  https://github.com/guihen01/Rest-API-Get-All-Groups/blob/main/Publishing%20Profile.PNG
+publishing profile :  https://github.com/guihen01/Rest-API-Get-All-Groups/blob/main/Publishing%20Profile.PNG
 
 configuration : Release / any CPU
-T
-arget framework : netcoreapp3.1
+
+Target framework : netcoreapp3.1
 
 Deployment mode : Framework dependent
 
