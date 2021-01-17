@@ -48,5 +48,14 @@ reference to download the package is : https://www.nuget.org/packages/Get-All-Ji
 # Distribution 2
 
 Is is also distributed as a published application (git .zip file in : .........) 
-the zip file is a compressed folder that include a published files
+the zip file is a compressed folder that include the published application 
+
+publishiong profile :  ................... 
+configuration : Release / any CPU
+Target framework : netcoreapp3.1
+Deployment mode : Framework dependent
+Target Runtime : Portable
+
+
+
 
