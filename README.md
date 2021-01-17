@@ -45,4 +45,43 @@ reference to download the package is : https://www.nuget.org/packages/Get-All-Ji
 Sample
 See sample in  https://github.com/guihen01/Rest-API-Get-All-Groups/blob/main/Screenshots/List-groups.txt
 
+{
+  "header": "Showing 3 of 3 matching groups",
+  "total": 3,
+  "groups": [
+    {
+      "name": "jira-administrators",
+      "html": "jira-administrators",
+      "labels": [
+        {
+          "text": "Admin",
+          "title": "Users added to this group will be given administrative access",
+          "type": "ADMIN"
+        },
+        {
+          "text": "Jira Software",
+          "title": "Users added to this group will be given access to <strong>Jira Software</strong>",
+          "type": "SINGLE"
+        }
+      ]
+    },
+    {
+      "name": "jira-software-users",
+      "html": "jira-software-users",
+      "labels": [
+        {
+          "text": "Jira Software",
+          "title": "Users added to this group will be given access to <strong>Jira Software</strong>",
+          "type": "SINGLE"
+        }
+      ]
+    },
+    {
+      "name": "toulon",
+      "html": "toulon",
+      "labels": []
+    }
+  ]
+}
+
 
