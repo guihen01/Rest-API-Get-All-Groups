@@ -27,7 +27,7 @@ The result is the end point on which to send the REst API httprequest :: http://
 
 name of the file created : List-groups.json
 
-exemple (json formated sample) : at : ttps://github.com/guihen01/Rest-API-Get-All-Groups/blob/main/Screenshots/List-groups.json
+exemple (json formated sample) : at : https://github.com/guihen01/Rest-API-Get-All-Groups/blob/main/Screenshots/List-groups.json
 
 
 2) The program create a text formated file , (json to string) it includes all the Jira groups
