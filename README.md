@@ -39,8 +39,14 @@ name of the file created : List-groups.txt
 
 exemple (text formated) : at https://github.com/guihen01/Rest-API-Get-All-Groups/blob/main/Screenshots/List-groups.txt
 
-# Distribution
+# Distribution 1 
 
 it is distributed as nuget package
 
 reference to download the package is : https://www.nuget.org/packages/Get-All-Jira-Groups/
+
+# Distribution 2
+
+Is is also distributed as a published application (git .zip file in : .........) 
+the zip file is a compressed folder that include a published files
+
