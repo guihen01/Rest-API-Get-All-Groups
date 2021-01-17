@@ -11,8 +11,8 @@ use Json package (newtonsoft.Json v12.0.3)
 # How to use :
 allow to make a rest api request to jira server it is based on rest api library of Atlassian ref : https://docs.atlassian.com/software/jira/docs/api/REST/8.13.2/ the excutable code when lounched ask some questions for starting the corresponding rest API
 
-1) download the nuget package Get-All-Jira-Groups.1.0.1.nukpg at  https://www.nuget.org/packages/Get-All-Jira-Groups/ and insert the package in rour project
-2) OR copy and paste from this gitub repository the program.cs code in your C# project , compile (build and execute)  
+1) download the nuget package Get-All-Jira-Groups at  https://www.nuget.org/packages/Get-All-Jira-Groups/ and insert the package in your project
+2) OR copy and paste from this github repository the Program.cs code in your C# project , compile (build and execute)  
 
 # Parameters
 
