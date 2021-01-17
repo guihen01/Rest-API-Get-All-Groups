@@ -25,7 +25,9 @@ The result is the end point on which to send the REst API httprequest :: http://
 
 1) The program create a json formated file , it includes all the Jira groups 
 name of the file created : List-groups.json
+exemple (text formated sample) : at : https://github.com/guihen01/Rest-API-Get-All-Groups/blob/main/Screenshots/List-groups.txt
 
+exemple (json formated) : at 
 2) The program create a text formated file , (json to string) it includes all the Jira groups 
 name of the file created : List-groups.txt
 
@@ -37,6 +39,6 @@ reference to download the package is : https://www.nuget.org/packages/Get-All-Ji
 
 # Sample :
 Sample
-See sample in  .........................
+See sample in  https://github.com/guihen01/Rest-API-Get-All-Groups/blob/main/Screenshots/List-groups.txt
 
 
