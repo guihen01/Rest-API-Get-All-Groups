@@ -50,7 +50,7 @@ reference to download the package is : https://www.nuget.org/packages/Get-All-Ji
 Is is also distributed as a published application (git .zip file in : .........) 
 the zip file is a compressed folder that include the published application 
 
-publishiong profile :  ................... 
+publishiong profile :  https://github.com/guihen01/Rest-API-Get-All-Groups/blob/main/Publishing%20Profile.PNG
 
 configuration : Release / any CPU
 T
