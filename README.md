@@ -51,9 +51,13 @@ Is is also distributed as a published application (git .zip file in : .........)
 the zip file is a compressed folder that include the published application 
 
 publishiong profile :  ................... 
+
 configuration : Release / any CPU
-Target framework : netcoreapp3.1
+T
+arget framework : netcoreapp3.1
+
 Deployment mode : Framework dependent
+
 Target Runtime : Portable
 
 
