@@ -11,7 +11,7 @@ use Json package (newtonsoft.Json v12.0.3)
 # How to use :
 allow to make a rest api request to jira server it is based on rest api library of Atlassian ref : https://docs.atlassian.com/software/jira/docs/api/REST/8.13.2/ the excutable code when lounched ask some questions for starting the corresponding rest API
 
-1) Download the nuget package Get-All-Jira-Groups at  https://www.nuget.org/packages/Get-All-Jira-Groups/ and insert the package in your project
+1) Download the nuget package Get-All-Jira-Groups at  https://www.nuget.org/packages/Get-All-Jira-Groups/ and insert the package in your project or download the nuget package at : https://github.com/guihen01/Rest-API-Get-All-Groups/packages/611796
 
 OR
 
