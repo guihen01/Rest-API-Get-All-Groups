@@ -1,5 +1,6 @@
 # Tools :
 [![Get-All-Jira-Groups on fuget.org](https://www.fuget.org/packages/Get-All-Jira-Groups/badge.svg)](https://www.fuget.org/packages/Get-All-Jira-Groups)
+[![Build status](https://ci.appveyor.com/api/projects/status/owefd7trpnhho5hc?svg=true)](https://ci.appveyor.com/project/guihen01/rest-api-get-all-groups)
 
 coded in C#
 
