@@ -1,4 +1,5 @@
 # Tools :
+[![Get-All-Jira-Groups on fuget.org](https://www.fuget.org/packages/Get-All-Jira-Groups/badge.svg)](https://www.fuget.org/packages/Get-All-Jira-Groups)
 
 coded in C#
 
