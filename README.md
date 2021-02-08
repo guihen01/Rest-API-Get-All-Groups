@@ -28,13 +28,13 @@ OR
 https://github.com/guihen01/Rest-API-Get-All-Groups/blob/main/Screenshots/Capture2.PNG
 ![alt text](https://github.com/guihen01/Rest-API-Get-All-Groups/blob/main/Screenshots/Capture2.PNG  "Logo Title Text 1")
 
-include the reference : using System.Threading.Tasks; &  using System.Threading.Tasks;
+include the reference : using System.Threading.Tasks; & using GetGroups;
 
-in your code : use : await Pg.GetAllGroups();   (GetAllGroups() method is packed is assembled in the dll :  and included in the Pg class
+in your code : use : await Pg.GetAllGroups();   (GetAllGroups() method is packed and assembled in the dll :  and included in the Pg class
 
 
-using GetGroups;
-using GetGroups;
+
+ 
 # Parameters
 
 1) URL of the jira server whith the port number :
