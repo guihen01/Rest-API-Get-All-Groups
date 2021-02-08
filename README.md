@@ -24,6 +24,7 @@ OR
 3) Download the published application on this site : https://github.com/guihen01/Rest-API-Get-All-Groups/releases/download/RestAPI/Get-All-Jira-Groups.zip
 
 https://github.com/guihen01/Rest-API-Get-All-Groups/blob/main/Screenshots/Capture2.PNG
+![alt text](https://github.com/guihen01/Rest-API-Get-All-Groups/blob/main/Screenshots/Capture2.PNG  "Logo Title Text 1")
 
 # Parameters
 
