@@ -32,7 +32,8 @@ include the reference : using System.Threading.Tasks; & using GetGroups;
 
 in your code : use : await Pg.GetAllGroups();   (GetAllGroups() method is packed and assembled in the dll :  and included in the Pg class
 
-
+https://github.com/guihen01/Rest-API-Get-All-Groups/blob/main/Screenshots/Capture5.PNG
+![alt text]( https://github.com/guihen01/Rest-API-Get-All-Groups/blob/main/Screenshots/Capture5.PNG "Logo Title Text 1")
 
  
 # Parameters
