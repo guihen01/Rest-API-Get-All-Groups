@@ -23,6 +23,8 @@ OR
 
 3) Download the published application on this site : https://github.com/guihen01/Rest-API-Get-All-Groups/releases/download/RestAPI/Get-All-Jira-Groups.zip
 
+https://github.com/guihen01/Rest-API-Get-All-Groups/blob/main/Screenshots/Capture2.PNG
+
 # Parameters
 
 1) URL of the jira server whith the port number :
