@@ -1,7 +1,7 @@
 # Tools :
 [![Get-All-Jira-Groups on fuget.org](https://www.fuget.org/packages/Get-All-Jira-Groups/badge.svg)](https://www.fuget.org/packages/Get-All-Jira-Groups)
 [![Build status](https://ci.appveyor.com/api/projects/status/owefd7trpnhho5hc?svg=true)](https://ci.appveyor.com/project/guihen01/rest-api-get-all-groups)
-[![NuGet](https://img.shields.io/nuget/v/Get-All-Jira-Groupsj.svg)](https://www.nuget.org/packages/Get-All-Jira-Groupsj/)
+[![NuGet](https://img.shields.io/nuget/v/Get-All-Jira-Groups.svg)](https://www.nuget.org/packages/Get-All-Jira-Groups/)
 
 Get all JIRA groups and store them in 2 files
 
