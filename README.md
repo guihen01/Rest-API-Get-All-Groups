@@ -71,7 +71,7 @@ reference to download the package is : https://www.nuget.org/packages/Get-All-Ji
 
 # Distribution 2
 
-Is is also distributed as a published application (git .zip file   :https://github.com/guihen01/Rest-API-Get-All-Groups/releases/download/RestAPI/Get-All-Jira-Groups.zip 
+Is is also distributed as a published application (git .zip file) 
 
 Get-All-Jira-Groups.zip
 
