@@ -23,7 +23,7 @@ OR
 
 OR
 
-3) Download the published application on this site : https://github.com/guihen01/Rest-API-Get-All-Groups/releases/download/RestAPI/Get-All-Jira-Groups.zip
+3) Download the published application on this site :https://github.com/guihen01/Rest-API-Get-All-Groups/releases/tag/new
 
 # How to use
 
